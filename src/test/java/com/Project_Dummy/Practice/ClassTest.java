@@ -14,5 +14,6 @@ public class ClassTest
 	public void m2()
 	{
 		System.out.println("2");
+		System.out.println("1");
 	}
 }
