@@ -1,6 +1,6 @@
 package com.Project_Dummy.Practice;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class DummyTest1 
 {
