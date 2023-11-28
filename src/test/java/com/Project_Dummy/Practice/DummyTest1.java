@@ -12,7 +12,7 @@ public class DummyTest1
 	@Test
 	public void m2()
 	{
-		System.out.println("Independent method");
+		System.out.println("Independent-method");
 	}
 	
 }
