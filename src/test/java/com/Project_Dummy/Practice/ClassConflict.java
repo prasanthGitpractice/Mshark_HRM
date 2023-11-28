@@ -9,4 +9,10 @@ public class ClassConflict
 	{
 		System.out.println("Conflict");
 	}
+	
+	@Test(dependsOnMethods = "conflict")
+	public void dependsOnConflict()
+	{
+		System.out.println("dependent method on Conflict mmethod");
+	}
 }
