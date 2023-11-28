@@ -9,10 +9,10 @@ public class DummyTest1
 	{
 		System.out.println("Update Chaneges");
 	}
+	
 	@Test
 	public void m2()
 	{
-		System.out.println("Independent-method");
+		System.out.println("test local Branch");
 	}
-	
 }
