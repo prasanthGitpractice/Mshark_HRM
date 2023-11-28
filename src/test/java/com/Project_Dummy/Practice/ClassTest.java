@@ -9,4 +9,10 @@ public class ClassTest
 	{
 		System.out.println("Independent method");
 	}
+	
+	@Test
+	public void m2()
+	{
+		System.out.println("2");
+	}
 }
