@@ -13,6 +13,6 @@ public class ClassTest
 	@Test
 	public void m2()
 	{
-		System.out.println("2");
+		System.out.println("Independent method 2");
 	}
 }

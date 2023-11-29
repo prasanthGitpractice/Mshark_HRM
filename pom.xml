@@ -67,6 +67,7 @@
 		<version>1.18.30</version>
 		<scope>provided</scope>
 	</dependency>
+	
 
   </dependencies>
   
@@ -80,7 +81,7 @@
 	  
 	  
 	  <profile>
-		  <id>Regression</id>
+		  <id>id1</id>
 		  <build>
 			  <pluginManagement>
 				  <plugins>
@@ -102,7 +103,7 @@
 	  </profile>
 	  
 	  <profile>
-		  <id>Smoke</id>
+		  <id>ID2</id>
 		  <build>
 			  <pluginManagement>
 				  <plugins>
