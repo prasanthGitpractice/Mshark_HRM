@@ -93,6 +93,7 @@
 						<configuration>
 						  <suiteXmlFiles>
 						    <suiteXmlFile>MavenProfilingRegression.xml</suiteXmlFile>
+						    <suiteXmlFile>MavenProfilingSmoke.xml</suiteXmlFile>
 						  </suiteXmlFiles>
 						</configuration>
      				 </plugin> 
