@@ -15,5 +15,6 @@ public class ClassTest
 	{
 		System.out.println("Independent method 2");
 		System.out.println("Independent method 3");
+		System.out.println("Independent method 4");
 	}
 }
