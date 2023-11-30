@@ -16,4 +16,10 @@ public class MavenProfiling2Test
 		System.out.println("---test4---");
 	}
 	
+	@Test
+	public void m5Test()
+	{
+		System.out.println("---test5---");
+	}
+	
 }
